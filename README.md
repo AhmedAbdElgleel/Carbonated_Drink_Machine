@@ -1,5 +1,8 @@
 # Carbonated Drinks Production Line
 
+## ASM Chart
+![ASM Chart](https://drive.google.com/uc?export=view&id=1F87b9qLPTXUad8ehT9o-XzHzkCa9iY4e)
+
 ## Overview
 This project aims to create a control system for a carbonated drinks production line. The system is designed to efficiently and consistently produce carbonated water by infusing water with carbon dioxide gas, resulting in a fizzy texture. The control system is implemented using a chip programmed to manage the production process.
 
@@ -21,5 +24,3 @@ A video demonstrating the carbonated drinks production line can be found [here](
 9. **Work Forever**: The production process repeats if the automatic mode is set.
 10. **End**: The end of the production process.
 
-## ASM Chart
-![ASM Chart](https://drive.google.com/file/d/1F87b9qLPTXUad8ehT9o-XzHzkCa9iY4e/view)
